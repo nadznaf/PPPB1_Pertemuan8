@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">PPPB1_Pertemuan8</string>
+    <string name="mytablayout">MyTabLayout</string>
+    <string name="register">Register</string>
+    <string name="login">Login</string>
+    <string name="home">Homepage</string>
+    <string name="terms_condition">
+        By checking the box you agree to our <a href="#">Terms and Conditions. </a>
+    </string>
+</resources>
